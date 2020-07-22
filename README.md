@@ -5,4 +5,4 @@ Instructions:
 Run the script and pass the desired module folder's relative address as a parameter.
 
 Example:
-python odoo_obfuscator crm
+python odoo_obfuscator.py crm
